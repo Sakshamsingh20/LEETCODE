@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1840-maximum-building-height) |
 ## Greedy
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1840-maximum-building-height) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
