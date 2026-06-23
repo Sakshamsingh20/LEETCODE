@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
+## Array
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+## Sorting
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
