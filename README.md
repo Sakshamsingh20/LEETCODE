@@ -40,8 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sakshamsingh20/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Sakshamsingh20/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
