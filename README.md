@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sakshamsingh20/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0001-two-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1840-maximum-building-height) |
