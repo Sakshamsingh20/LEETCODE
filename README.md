@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sakshamsingh20/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sakshamsingh20/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sakshamsingh20/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -38,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting Sort
 |  |
 | ------- |
