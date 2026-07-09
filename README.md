@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1189-maximum-number-of-balloons](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sakshamsingh20/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sakshamsingh20/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
