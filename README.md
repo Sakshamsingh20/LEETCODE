@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sakshamsingh20/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sakshamsingh20/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sakshamsingh20/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sakshamsingh20/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
@@ -173,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sakshamsingh20/LEETCODE/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
